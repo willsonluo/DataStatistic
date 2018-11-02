@@ -1,4 +1,4 @@
-community_area_number,community_area_name,percent_of_housing_crowed,percent_house_holds_below_poverty,percent_age_16_unemployed,per_age25_without_high_school_diploma,per_age_under18_or_over64,per_capita_income,hardship_index
+Community_Area_Number,COMMUNITY_AREA_NAME,PERCENT_OF_HOUSING_CROWDED,PERCENT_HOUSEHOLDS_BELOW_POVERTY,PERCENT_AGED_16_UNEMPLOYED,PERCENT_AGED_25_WITHOUT_HIGH_SCHOOL_DIPLOMA,PERCENT_AGED_UNDER_18_OR_OVER_64,PER_CAPITA_INCOME_,HARDSHIP_INDEX
 1,Rogers Park,7.7,23.6,8.7,18.2,27.5,23939,39
 2,West Ridge,7.8,17.2,8.8,20.8,38.5,23040,46
 3,Uptown,3.8,24,8.9,11.8,22.2,35787,20
